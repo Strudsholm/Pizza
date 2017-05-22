@@ -1,0 +1,9 @@
+c:\users\joachim\documents\visual studio 2017\Projects\SignalR Menu\SignalR Menu\bin\Debug\netcoreapp1.1\SignalR Menu.deps.json
+c:\users\joachim\documents\visual studio 2017\Projects\SignalR Menu\SignalR Menu\bin\Debug\netcoreapp1.1\SignalR Menu.runtimeconfig.json
+c:\users\joachim\documents\visual studio 2017\Projects\SignalR Menu\SignalR Menu\bin\Debug\netcoreapp1.1\SignalR Menu.runtimeconfig.dev.json
+c:\users\joachim\documents\visual studio 2017\Projects\SignalR Menu\SignalR Menu\bin\Debug\netcoreapp1.1\SignalR Menu.dll
+c:\users\joachim\documents\visual studio 2017\Projects\SignalR Menu\SignalR Menu\obj\Debug\netcoreapp1.1\SignalR Menu.csprojResolveAssemblyReference.cache
+c:\users\joachim\documents\visual studio 2017\Projects\SignalR Menu\SignalR Menu\obj\Debug\netcoreapp1.1\SignalR Menu.AssemblyInfo.cs
+C:\Users\Joachim\Documents\Visual Studio 2017\Projects\SignalR Menu\SignalR Menu\bin\Debug\netcoreapp1.1\SignalR Menu.pdb
+C:\Users\Joachim\Documents\Visual Studio 2017\Projects\SignalR Menu\SignalR Menu\obj\Debug\netcoreapp1.1\SignalR Menu.dll
+C:\Users\Joachim\Documents\Visual Studio 2017\Projects\SignalR Menu\SignalR Menu\obj\Debug\netcoreapp1.1\SignalR Menu.pdb

@@ -1,0 +1,29 @@
+﻿@using SignalR_Menu.Models.ViewModels
+
+@model PizzaViewModel
+<h1>Pizzas</h1>
+@foreach (var item in Model.Pizzas)
+{
+    <div class="container">
+        <div class="col-md-4">
+
+
+            <h2>@item.Title</h2>
+
+
+        </div>
+        <div class="col-md-4">
+           
+            @foreach (var x in Model.PI.Where(x => x.Pid == item.Pid))
+                {
+                @foreach (var ingre in Model.Ingredients.Where(b => b.Iid == x.Iid))
+                    {
+                    <p>@ingre.Topping</p>
+                }
+
+            }
+        </div>
+        
+    </div>
+}
+
